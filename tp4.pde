@@ -1,3 +1,5 @@
+// Video explicacion: https://youtu.be/YHqJL2qXhUo
+
 String debugtext = "El Emperador estuvo aquí";
 String[] array_text1 = new String[32];
 String[] array_btn1_text = new String[32];
